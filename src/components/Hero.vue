@@ -20,7 +20,7 @@
           <a href="https://www.linkedin.com/in/gustavo-haddad-985295250/">
             <i class="fa-brands fa-linkedin"></i>
           </a>
-          <a href="mailto:seuemail@example.com">
+          <a href="mailto:gustavoeliashaddad@gmail.com">
             <i class="fa-regular fa-envelope"></i>
           </a>
 
